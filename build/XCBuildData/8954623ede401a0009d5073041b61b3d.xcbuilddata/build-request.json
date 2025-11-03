@@ -20,7 +20,7 @@
     "activeRunDestination" : {
       "disableOnlyActiveArch" : false,
       "platform" : "macosx",
-      "sdk" : "macosx15.2",
+      "sdk" : "macosx26.0",
       "sdkVariant" : "macos",
       "supportedArchitectures" : [
         "arm64e",
