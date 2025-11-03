@@ -1,0 +1,46 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "f43ca9c21cfee279f2d5ae4da23023c2e7c57038c926872c6f42cf530b498b41"
+    }
+  ],
+  "containerPath" : "/Users/edwinsalcedo/Documents/UF/CAP4730/cg_project_3/build/CG_Project.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/edwinsalcedo/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/edwinsalcedo/Library/Developer/Xcode/DerivedData/CG_Project-citvdaotsxyvcjcbcazvqqqmybbm/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/edwinsalcedo/Library/Developer/Xcode/DerivedData/CG_Project-citvdaotsxyvcjcbcazvqqqmybbm/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
